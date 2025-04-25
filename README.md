@@ -3,9 +3,9 @@
 <!-- Badges -->
 <table>
   <tr>
-    <td>License</td>
+    <td>ライセンス</td>
     <td>Env</td>
-    <td>Lang</td>
+    <td>バッジ</td>
     <td>DB</td>
     <td>Editor</td>
   </tr>
